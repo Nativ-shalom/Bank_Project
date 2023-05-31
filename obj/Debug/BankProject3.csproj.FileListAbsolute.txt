@@ -1,0 +1,10 @@
+C:\Users\david\source\repos\BankProject3\BankProject3\bin\Debug\BankProject3.exe.config
+C:\Users\david\source\repos\BankProject3\BankProject3\bin\Debug\BankProject3.exe
+C:\Users\david\source\repos\BankProject3\BankProject3\bin\Debug\BankProject3.pdb
+C:\Users\david\source\repos\BankProject3\BankProject3\obj\Debug\BankProject3.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\BankProject3\BankProject3\obj\Debug\BankProject3.Properties.Resources.resources
+C:\Users\david\source\repos\BankProject3\BankProject3\obj\Debug\BankProject3.csproj.GenerateResource.cache
+C:\Users\david\source\repos\BankProject3\BankProject3\obj\Debug\BankProject3.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\BankProject3\BankProject3\obj\Debug\BankProject3.exe
+C:\Users\david\source\repos\BankProject3\BankProject3\obj\Debug\BankProject3.pdb
+C:\Users\david\source\repos\BankProject3\BankProject3\obj\Debug\BankProject3.Form1.resources
